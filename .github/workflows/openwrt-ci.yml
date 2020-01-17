@@ -178,7 +178,6 @@ jobs:
            CONFIG_PACKAGE_luci-app-commands=y
            CONFIG_PACKAGE_luci-app-attendedsysupgrade=y
            CONFIG_PACKAGE_luci-app-arpbind=y
-           
            EOF
 
           # LuCI主题:
